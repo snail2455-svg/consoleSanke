@@ -1,1 +1,5 @@
-Snake
+This is a snake game by java console,give it a try!
+
+The project contains exec-maven-plugin so you could use : "mvn exec:java" to run the program
+
+and you must do it in console or the program doesn't work
